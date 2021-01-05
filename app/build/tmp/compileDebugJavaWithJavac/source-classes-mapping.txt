@@ -1,0 +1,8 @@
+mk/com/ukim/finki/mpip/lab3/persistence/AppDatabase_Impl.java
+ mk.com.ukim.finki.mpip.lab3.persistence.AppDatabase_Impl
+ mk.com.ukim.finki.mpip.lab3.persistence.AppDatabase_Impl$1
+mk/com/ukim/finki/mpip/lab3/persistence/MovieDao_Impl.java
+ mk.com.ukim.finki.mpip.lab3.persistence.MovieDao_Impl
+ mk.com.ukim.finki.mpip.lab3.persistence.MovieDao_Impl$1
+mk/com/ukim/finki/mpip/lab3/BuildConfig.java
+ mk.com.ukim.finki.mpip.lab3.BuildConfig

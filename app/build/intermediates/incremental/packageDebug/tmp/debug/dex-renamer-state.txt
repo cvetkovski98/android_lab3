@@ -1,0 +1,7 @@
+#Mon Jan 04 01:51:37 CET 2021
+base.0=/home/oliver/Projects/finki/zimski_2020-21/mpip/lab3/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/oliver/Projects/finki/zimski_2020-21/mpip/lab3/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
